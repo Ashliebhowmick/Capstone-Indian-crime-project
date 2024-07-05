@@ -13,6 +13,8 @@ For phase 1 i.e. Data Collection/preparation part, there is a excel file present
 
 https://statistics.py.gov.in/state-wise-population-2010?page=1
 
+'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.wbja.nic.in/wbja_adm/files/Statistics2012_1.pdf'
+
 For Phase 2, there is jupyter notebook present in which State/UT wise analysis is done.
 For Phase 3, there is jupyter notebook present in which SQL Operations are done.
 For Phase 4, there is jupyter notebook present in which Unsupervised ML (Clustering) technique is performed.
